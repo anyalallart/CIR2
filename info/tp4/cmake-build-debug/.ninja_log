@@ -1,0 +1,8 @@
+# ninja log v5
+0	621	6865927133371559	CMakeFiles/tp4.dir/circl.cpp.obj	1cbe52c0d81b2a54
+7	624	6865927133381058	CMakeFiles/tp4.dir/main.cpp.obj	214e1f7cbb7afe83
+4	628	6865927133427776	CMakeFiles/tp4.dir/vecteur.cpp.obj	8ebeb5ceb2910eab
+628	913	6865927136257482	tp4.exe	c0e2b8ed01486491
+9	325	6865929632617418	CMakeFiles/tp4.dir/main.cpp.obj	214e1f7cbb7afe83
+3	338	6865929632758001	CMakeFiles/tp4.dir/vecteur.cpp.obj	8ebeb5ceb2910eab
+338	444	6865929633768275	tp4.exe	c0e2b8ed01486491

@@ -1,0 +1,23 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Administrateur\CLionProjects\TestBoost -B C:\Users\Administrateur\CLionProjects\TestBoost\cmake-build-debug
+CMake Error at lib/Boost/lib/cmake/Boost-1.80.0/BoostConfig.cmake:141 (find_package):
+  Found package configuration file:
+
+    C:/Users/Administrateur/CLionProjects/TestBoost/lib/Boost/lib/cmake/boost_json-1.80.0/boost_json-config.cmake
+
+  but it set boost_json_FOUND to FALSE so package "boost_json" is considered
+  to be NOT FOUND.  Reason given by package:
+
+  No suitable build variant has been found.
+
+  The following variants have been tried and rejected:
+
+  * libboost_json-vc143-mt-s-x64-1_80.lib (64 bit, need 32)
+
+Call Stack (most recent call first):
+  lib/Boost/lib/cmake/Boost-1.80.0/BoostConfig.cmake:262 (boost_find_component)
+  C:/Program Files/JetBrains/CLion 2022.2.1/bin/cmake/win/share/cmake-3.23/Modules/FindBoost.cmake:594 (find_package)
+  CMakeLists.txt:16 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Administrateur/CLionProjects/TestBoost/cmake-build-debug/CMakeFiles/CMakeOutput.log".

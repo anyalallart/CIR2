@@ -1,0 +1,565 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						6,
+						12
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "First_CMake",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-First_CMake-Debug-1bbb03c78ab3c70517e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "First_CMake"
+				},
+				{
+					"build" : "First_CMake/Subdirectories",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-First_CMake.Subdirectories-Debug-fa53a0d596784b941f45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "First_CMake/Subdirectories"
+				},
+				{
+					"build" : "First_CMake/Subdirectories/lib1",
+					"jsonFile" : "directory-First_CMake.Subdirectories.lib1-Debug-070ad22bd48cb1a5bd1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "First_CMake/Subdirectories/lib1",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "First_CMake/Subdirectories/prog1",
+					"jsonFile" : "directory-First_CMake.Subdirectories.prog1-Debug-fbeddac6dc8a8c486d9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 4,
+					"source" : "First_CMake/Subdirectories/prog1",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "First_CMake/Subdirectories/prog2",
+					"jsonFile" : "directory-First_CMake.Subdirectories.prog2-Debug-bcd7dd8165fb48e233d3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 5,
+					"source" : "First_CMake/Subdirectories/prog2",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "various",
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-various-Debug-6eaaa91ef7734ada0ad6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "various"
+				},
+				{
+					"build" : "various/read_a_char",
+					"jsonFile" : "directory-various.read_a_char-Debug-6d29669332071b860c75.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 7,
+					"source" : "various/read_a_char",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "various/pointer_to_pointer_allocation",
+					"jsonFile" : "directory-various.pointer_to_pointer_allocation-Debug-8a3f318cc058686f1381.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 8,
+					"source" : "various/pointer_to_pointer_allocation",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "various/copy_constructor",
+					"childIndexes" : 
+					[
+						10,
+						11
+					],
+					"jsonFile" : "directory-various.copy_constructor-Debug-74c7a5ccf566d0a39bc3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 9,
+					"source" : "various/copy_constructor"
+				},
+				{
+					"build" : "various/copy_constructor/C",
+					"jsonFile" : "directory-various.copy_constructor.C-Debug-c55c892e6fd33711a4b3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 9,
+					"source" : "various/copy_constructor/C",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "various/copy_constructor/C++",
+					"jsonFile" : "directory-various.copy_constructor.C++-Debug-7af9e68c7c537a88955b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 10,
+					"source" : "various/copy_constructor/C++",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "TP",
+					"childIndexes" : 
+					[
+						13
+					],
+					"jsonFile" : "directory-TP-Debug-12e75ae7bd17d2369339.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "TP"
+				},
+				{
+					"build" : "TP/TP2",
+					"childIndexes" : 
+					[
+						14,
+						15,
+						16
+					],
+					"jsonFile" : "directory-TP.TP2-Debug-4d082c1b7495fc27c4c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 12,
+					"source" : "TP/TP2"
+				},
+				{
+					"build" : "TP/TP2/TP2_1",
+					"jsonFile" : "directory-TP.TP2.TP2_1-Debug-44edd5bcbb1857d94efc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 13,
+					"source" : "TP/TP2/TP2_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "TP/TP2/TP2_2",
+					"jsonFile" : "directory-TP.TP2.TP2_2-Debug-978644351b22c4f4f09c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 14,
+					"source" : "TP/TP2/TP2_2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "TP/TP2/TP2_3",
+					"jsonFile" : "directory-TP.TP2.TP2_3-Debug-d3777f51d5d963b0bbea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"parentIndex" : 13,
+					"projectIndex" : 15,
+					"source" : "TP/TP2/TP2_3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						6,
+						11
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "all"
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "cmake_examples",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "all_progs",
+					"parentIndex" : 1
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "lib1",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "prog1",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "prog2",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "various",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "read_a_char",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "pointer_to_pointer_allocation",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						10
+					],
+					"directoryIndexes" : 
+					[
+						9,
+						10
+					],
+					"name" : "copy_constructor",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "copy_constructor_C++",
+					"parentIndex" : 9,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						12
+					],
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "TP",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						13,
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "TP2",
+					"parentIndex" : 11
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "TP2_1",
+					"parentIndex" : 12,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "TP2_2",
+					"parentIndex" : 12,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "TP2_3",
+					"parentIndex" : 12,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 14,
+					"id" : "TP2_1::@0644092424520ee52d40",
+					"jsonFile" : "target-TP2_1-Debug-be811c51272909f44c96.json",
+					"name" : "TP2_1",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "TP2_2::@410a978a86782c2bbd99",
+					"jsonFile" : "target-TP2_2-Debug-ea2400426f9d6ef426da.json",
+					"name" : "TP2_2",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "TP2_3::@6c9a3c2ae083dd1a8a5f",
+					"jsonFile" : "target-TP2_3-Debug-1729b4e95c218bb45bfa.json",
+					"name" : "TP2_3",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "copy_constructor::@269d17eb775b451ec724",
+					"jsonFile" : "target-copy_constructor-Debug-c4a3053bab0f56c049f3.json",
+					"name" : "copy_constructor",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "copy_constructor_C++::@31ee2bd64a997e27a9b6",
+					"jsonFile" : "target-copy_constructor_C++-Debug-cd2b5f8a5a5d8a56e104.json",
+					"name" : "copy_constructor_C++",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lib1::@5a3da2fc6c2307dfce31",
+					"jsonFile" : "target-lib1-Debug-78d2c8d4d34260d64ed5.json",
+					"name" : "lib1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "pointer_to_pointer_allocation::@6700868060dd570ee2f1",
+					"jsonFile" : "target-pointer_to_pointer_allocation-Debug-0cc3cc031ace7b68be5a.json",
+					"name" : "pointer_to_pointer_allocation",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "prog1::@1b21ee6f4b3adbaab3a2",
+					"jsonFile" : "target-prog1-Debug-913e225f4aa2f82e3ccb.json",
+					"name" : "prog1",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "prog2::@d3348841a50fd5763bae",
+					"jsonFile" : "target-prog2-Debug-4e215cd4df61686538b6.json",
+					"name" : "prog2",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "read_a_char::@94e915fc648f57f9af93",
+					"jsonFile" : "target-read_a_char-Debug-d6d7adfd41d3b08c2c20.json",
+					"name" : "read_a_char",
+					"projectIndex" : 7
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrateur/CLionProjects/Examples/cmake-build-debug",
+		"source" : "C:/Users/Administrateur/CLionProjects/Examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

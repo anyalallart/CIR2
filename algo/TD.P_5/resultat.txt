@@ -1,0 +1,10 @@
+1 11 29 2 10 4 5 8 3 3 11 4 Lnmpapq Iddqscdxr Oqhnwn Cbynecdyg Mowfrxsjy Ldbefsa Wkhopkm Xxpklore Uewh 240
+2 12 29 1 6 3 4 15 6 5 8 3 Uewh Iddqscdxr Mowfrxsjy Lnmpapq Cbynecdyg Xxpklore Wkhopkm Oqhnwn Ldbefsa 208
+3 12 29 1 6 3 4 15 6 5 8 3 Iddqscdxr Lnmpapq Mowfrxsjy Uewh Cbynecdyg Xxpklore Oqhnwn Ldbefsa Wkhopkm 195
+4 10 25 2 10 4 4 15 6 Mowfrxsjy Lnmpapq Iddqscdxr Ldbefsa Wkhopkm Cbynecdyg Xxpklore Oqhnwn Uewh 188
+5 10 25 2 10 4 4 15 6 Cbynecdyg Oqhnwn Iddqscdxr Lnmpapq Mowfrxsjy Ldbefsa Xxpklore Wkhopkm Uewh 226
+6 10 25 2 10 4 4 15 6 Oqhnwn Iddqscdxr Lnmpapq Mowfrxsjy Cbynecdyg Xxpklore Wkhopkm Ldbefsa Uewh 227
+7 10 25 2 10 4 4 15 6 Lnmpapq Iddqscdxr Mowfrxsjy Cbynecdyg Oqhnwn Ldbefsa Wkhopkm Xxpklore Uewh 240
+8 10 24 1 6 3 2 10 4 5 8 3 Cbynecdyg Xxpklore Iddqscdxr Mowfrxsjy Lnmpapq Ldbefsa Wkhopkm Oqhnwn Uewh 205
+9 11 29 2 10 4 5 8 3 3 11 4 Ldbefsa Iddqscdxr Lnmpapq Mowfrxsjy Uewh Cbynecdyg Oqhnwn Xxpklore Wkhopkm 182
+10 10 25 2 10 4 4 15 6 Uewh Iddqscdxr Mowfrxsjy Cbynecdyg Xxpklore Wkhopkm Ldbefsa Lnmpapq Oqhnwn 222

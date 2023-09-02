@@ -1,0 +1,11 @@
+# ninja log v5
+7	156	6854722447421665	First_CMake/Subdirectories/prog1/CMakeFiles/prog1.dir/src/prog1.cpp.obj	be34e33f4fdae25c
+581	693	6854722452756421	First_CMake/Subdirectories/prog1/prog1.exe	427656d3d9c524f2
+6	123	6854723233279217	various/copy_constructor/C/CMakeFiles/copy_constructor.dir/src/copy_constructor.c.obj	b9dbd89dc11b4342
+1	274	6854722448611423	First_CMake/Subdirectories/lib1/CMakeFiles/lib1.dir/src/file.cpp.obj	a71d925d95655af8
+275	581	6854722451682350	First_CMake/Subdirectories/lib1/liblib1.a	d77f7432815e5b1b
+0	114	6854723233173942	various/copy_constructor/C/CMakeFiles/copy_constructor.dir/src/main.c.obj	592b1aa77b801232
+8	795	6854728061576374	various/copy_constructor/C++/CMakeFiles/copy_constructor_C++.dir/src/copy_constructor.cpp.obj	a73118cdc9d1d038
+124	212	6854723234132469	various/copy_constructor/C/copy_constructor.exe	d6309c72729f762c
+1	472	6854728058342221	various/copy_constructor/C++/CMakeFiles/copy_constructor_C++.dir/src/main.cpp.obj	24edae3b078938d3
+796	912	6854728062681792	various/copy_constructor/C++/copy_constructor_C++.exe	130c6c12e618444e

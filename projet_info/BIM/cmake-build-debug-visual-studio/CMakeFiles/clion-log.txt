@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Administrateur\CLionProjects\BIM Select CMakeLists.txt
